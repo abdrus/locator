@@ -1,0 +1,10 @@
+{
+  "name": "ospu/locator",
+  "description": "The PHP Unit Testing framework.",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Locator\\" : "src/"
+    }
+  }
+}
