@@ -5,7 +5,7 @@ namespace Locator;
 class Locator {
 
 	public function __construct(){
-		print_r("locator");
+		print_r("This is locator");
 	}
 
 }
